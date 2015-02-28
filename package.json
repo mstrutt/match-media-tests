@@ -1,0 +1,17 @@
+{
+  "name": "match-media-tests",
+  "version": "0.0.1",
+  "description": "Tests for node-match-media and its wrappers",
+  "main": "test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Michael Strutt",
+  "license": "MIT",
+  "dependencies": {
+    "nodeunit": "^0.9.0"
+  }
+}
